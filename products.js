@@ -2,37 +2,53 @@ window.SHOP_CONFIG = {"storeName": "Kedai Pancing Anda", "whatsappNumber": "6012
 window.CATEGORIES = ["Reels", "Rods", "Lures", "Lines", "Accessories", "Combo"];
 
 window.PRODUCTS = [
-  {"id": 1, "name": "Black Gold Spinning Reel 3000", "category": "Reels", "price": "RM189", "image": "assets/pic1.svg", "description": "Reel spinning saiz 3000 dengan body ringan, drag lancar dan sesuai untuk kegunaan air tawar atau light saltwater. Sesuai untuk casting harian dan easy handling."},
-  {"id": 2, "name": "Carbon Rod 6'6 Fast Action", "category": "Rods", "price": "RM249", "image": "assets/pic1.jpg", "description": "Rod carbon 6 kaki 6 inci dengan aksi fast. Sesuai untuk casting, ringan di tangan dan memberi response yang lebih cepat semasa hook-up."},
-  {"id": 3, "name": "Metal Jig Pro Pack", "category": "Lures", "price": "RM39", "image": "assets/pic3.svg", "description": "Set metal jig untuk kegunaan basic hingga intermediate. Sesuai untuk cubaan jigging ringan dengan pilihan berat yang mudah digunakan."},
-  {"id": 4, "name": "Braided Line X8 300m", "category": "Lines", "price": "RM55", "image": "assets/pic4.svg", "description": "Tali braided 8 strand sepanjang 300 meter. Lontaran lebih lancar, kuat dan sesuai untuk pelbagai setup casting serta spinning."},
-  {"id": 5, "name": "Fishing Tool Set Premium", "category": "Accessories", "price": "RM79", "image": "assets/pic5.svg", "description": "Set aksesori memancing yang merangkumi peralatan asas penting untuk trip harian. Praktikal dan mudah dibawa."},
-  {"id": 6, "name": "Starter Combo Rod + Reel", "category": "Combo", "price": "RM329", "image": "assets/pic6.svg", "description": "Combo permulaan yang sesuai untuk customer baru mula memancing. Datang dengan setup asas yang mudah digunakan terus."},
-  {"id": 7, "name": "Saltwater Spinning Reel 4000", "category": "Reels", "price": "RM219", "image": "assets/pic7.svg", "description": "Reel spinning saiz 4000 dengan binaan sesuai untuk penggunaan kawasan air masin. Sesuai untuk casting pantai dan muara."},
-  {"id": 8, "name": "Travel Rod 4-Piece", "category": "Rods", "price": "RM199", "image": "assets/pic8.svg", "description": "Rod travel 4-piece yang mudah simpan dan mudah bawa. Sesuai untuk trip jauh, cuti atau simpan dalam kereta."},
-  {"id": 9, "name": "Minnow Lure Set 5pcs", "category": "Lures", "price": "RM45", "image": "assets/pic9.svg", "description": "Set minnow lure 5 pcs untuk casting harian. Sesuai digunakan di kolam, sungai atau kawasan muara bergantung setup."},
-  {"id": 10, "name": "Fluorocarbon Leader 50m", "category": "Lines", "price": "RM29", "image": "assets/pic10.svg", "description": "Leader fluorocarbon 50 meter dengan daya tahan geseran yang baik. Sesuai untuk disambung pada braided line."},
-  {"id": 11, "name": "Split Ring & Hook Kit", "category": "Accessories", "price": "RM35", "image": "assets/pic11.svg", "description": "Kit split ring dan hook untuk tukar ganti lure atau maintenance setup. Praktikal untuk simpan dalam tackle box."},
-  {"id": 12, "name": "Beginner Freshwater Combo", "category": "Combo", "price": "RM289", "image": "assets/pic12.svg", "description": "Combo khas untuk customer yang baru nak belajar setup air tawar. Senang terus pakai dan sesuai untuk basic casting."},
-  {"id": 13, "name": "Baitcasting Reel Pro", "category": "Reels", "price": "RM269", "image": "assets/pic13.svg", "description": "Baitcasting reel dengan prestasi stabil dan sesuai untuk pengguna yang mahukan kawalan balingan lebih tepat."},
-  {"id": 14, "name": "Surf Casting Rod 10ft", "category": "Rods", "price": "RM359", "image": "assets/pic14.svg", "description": "Rod surf casting 10 kaki untuk lontaran jauh dari pantai. Sesuai untuk penggunaan pesisir dan teknik surfcasting."},
-  {"id": 15, "name": "Soft Plastic Lure Pack", "category": "Lures", "price": "RM25", "image": "assets/pic15.svg", "description": "Pack soft plastic untuk kegunaan harian. Mudah dipadankan dengan jighead dan sesuai untuk pelbagai spot."},
-  {"id": 16, "name": "PE Line 500m Strong Cast", "category": "Lines", "price": "RM69", "image": "assets/pic16.svg", "description": "Tali PE sepanjang 500 meter untuk customer yang mahukan extra spool panjang. Sesuai untuk reel besar dan backup line."},
-  {"id": 17, "name": "Pliers + Gripper Set", "category": "Accessories", "price": "RM59", "image": "assets/pic17.svg", "description": "Set pliers dan fish gripper untuk keselamatan dan kemudahan semasa handle ikan. Sesuai dibawa ke semua trip."},
-  {"id": 18, "name": "Boat Fishing Combo Premium", "category": "Combo", "price": "RM459", "image": "assets/pic18.svg", "description": "Combo premium untuk kegunaan boat fishing dengan setup lebih solid dan sesuai untuk penggunaan yang lebih berat."},
-  {"id": 19, "name": "Ultra Light Reel 1000", "category": "Reels", "price": "RM145", "image": "assets/pic19.svg", "description": "Reel ultra light saiz 1000 yang sesuai untuk setup ringan dan pancingan finesse. Ringan dan mudah dikawal."},
-  {"id": 20, "name": "Jigging Rod Medium Heavy", "category": "Rods", "price": "RM319", "image": "assets/pic20.svg", "description": "Rod jigging kelas medium heavy untuk penggunaan jigging ringan ke sederhana. Sesuai untuk pengguna yang perlukan backbone lebih kuat."},
-  {"id": 21, "name": "Pencil Popper Lure", "category": "Lures", "price": "RM32", "image": "assets/pic21.svg", "description": "Topwater pencil/popper lure untuk aksi permukaan. Sesuai untuk casting yang mahukan strike di permukaan air."},
-  {"id": 22, "name": "Monofilament Clear 200m", "category": "Lines", "price": "RM19", "image": "assets/pic22.svg", "description": "Tali monofilament 200 meter warna clear untuk setup asas atau kegunaan tertentu mengikut teknik memancing."},
-  {"id": 23, "name": "Tackle Box Organizer", "category": "Accessories", "price": "RM49", "image": "assets/pic23.svg", "description": "Kotak simpanan tackle dengan ruang susun atur yang praktikal. Membantu susun lure, hook dan aksesori dengan lebih kemas."},
-  {"id": 24, "name": "Kids Fishing Combo Set", "category": "Combo", "price": "RM159", "image": "assets/pic24.svg", "description": "Combo ringan untuk kegunaan santai dan sesuai untuk customer yang mahukan setup mesra pengguna serta mudah dikendalikan."},
-  {"id": 25, "name": "Long Cast Reel 5000", "category": "Reels", "price": "RM299", "image": "assets/pic25.svg", "description": "Reel saiz 5000 yang sesuai untuk long cast dan aplikasi yang perlukan kapasiti tali lebih besar."},
-  {"id": 26, "name": "Telescopic Rod Portable", "category": "Rods", "price": "RM129", "image": "assets/pic26.svg", "description": "Rod teleskopik yang mudah bawa dan mudah simpan. Pilihan praktikal untuk penggunaan santai atau travel."},
-  {"id": 27, "name": "Vibration Blade Lure", "category": "Lures", "price": "RM28", "image": "assets/pic27.svg", "description": "Vibration blade lure untuk aksi getaran yang jelas di dalam air. Sesuai untuk cari ikan aktif di pelbagai spot."},
-  {"id": 28, "name": "Shock Leader Premium", "category": "Lines", "price": "RM33", "image": "assets/pic28.svg", "description": "Shock leader premium untuk sambungan hujung tali dengan ketahanan tambahan. Sesuai untuk setup casting dan jigging."},
-  {"id": 29, "name": "Fishing Gloves Anti Slip", "category": "Accessories", "price": "RM27", "image": "assets/pic29.svg", "description": "Sarung tangan memancing anti-slip untuk grip lebih baik dan perlindungan tangan semasa handling."},
-  {"id": 30, "name": "Pond Fishing Combo Value", "category": "Combo", "price": "RM239", "image": "assets/pic30.svg", "description": "Combo value untuk penggunaan kolam dan pancing santai. Sesuai untuk customer yang mahukan setup ringkas dan terus boleh guna."},
+  {"id": 1, "name": "Gewang Casting 6 Gram", "category": "Lures", "price": "RM4", "image": "assets/pic1.jpg", "description": "Berat 6g, Panjang 9cm. 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 2, "name": "Gewang Casting 5 Gram", "category": "Lures", "price": "RM4 ", "image": "assets/pic2.jpg", "description": "Berat 5g, Panjang 5.5cm. 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 3, "name": "Soft Frog 6 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic3.jpg", "description": "Berat 6g, Panjang 5.5cm tak termasuk ekor. 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 4, "name": "Topwater Soft Frog 7 Gram", "category": "Lures", "price": "RM2.5 ", "image": "assets/pic4.jpg", "description": "Berat 7gram,Panjang 4cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 5, "name": "Topwater Soft Frog 14 Gram ", "category": "Lures", "price": "RM2.5 ", "image": "assets/pic5.jpg", "description": "Berat 14gram | Panjang 5.5cm tak termasuk ekor | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 6, "name": "Soft Frog Spinner 6 Gram", "category": "Lures", "price": "RM2 ", "image": "assets/pic6.jpg", "description": "Berat 6gram | Panjang 5cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 7, "name": "Mini Soft Frog 3Gram", "category": "Lures", "price": "RM2.5 ", "image": "assets/pic7.jpg", "description": "Berat 3gram | Panjang 3cm tak termasuk ekor | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 8, "name": "Top Water Frog 7Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic8.jpg", "description": "Berat 7gram | Panjang 3.7cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 9, "name": "Umpan Siakap Ikan Belanak Lure Tiruan", "category": "Lures", "price": "RM3-4 ", "image": "assets/pic9.jpg", "description": "Berat 13 dan 8 gram | Panjang 6cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad : peluang tidak menunggu lama"},
+  
+  {"id": 10, "name": "Jump Frog 9 Gram", "category": "Lures", "price": "RM5 ", "image": "assets/pic10.jpg", "description": "Berat 9-10 gram | Panjang tak termasuk ekor 4cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
+  {"id": 11, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic11.jpg", "description": "xxxx"},
+  
+  {"id": 12, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic12.jpg", "description": "xxxx"},
+  
+  {"id": 13, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic13.jpg", "description": "xxxx"},
+  
+  {"id": 14, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic14.jpg", "description": "xxxx"},
+  
+  {"id": 15, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic15.jpg", "description": "xxxx"},
+  
+  {"id": 16, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic16.jpg", "description": "xxxx"},
+  {"id": 17, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic17.jpg", "description": "xxxx"},
+  {"id": 18, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic18.jpg", "description": "xxxx"},
+  {"id": 19, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic19.jpg", "description": "xxxx"},
+  {"id": 20, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic20.jpg", "description": "xxxx"},
+  {"id": 21, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic21.jpg", "description": "xxxx"},
+  {"id": 22, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic22.jpg", "description": "xxxx"},
+  {"id": 23, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic23.jpg", "description": "xxxx"},
+  {"id": 24, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic24.jpg", "description": "xxxx"},
+  {"id": 25, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic25.jpg", "description": "xxxx"},
+  {"id": 26, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic26.jpg", "description": "xxxx"},
+  {"id": 27, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic27.jpg", "description": "xxxx"},
+  {"id": 28, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic28.jpg", "description": "xxxx"},
+  {"id": 29, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic29.jpg", "description": "xxxx"},
+  {"id": 30, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic30.jpg", "description": "xxxx"},
 ];
+``
 
 window.FAQS = [
   {"q": "Berapa caj postage?", "a": "RM10 untuk Semenanjung Malaysia dan RM15 untuk Sabah & Sarawak."},
