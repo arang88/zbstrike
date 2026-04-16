@@ -22,19 +22,22 @@ window.PRODUCTS = [
   
   {"id": 10, "name": "Jump Frog 9 Gram", "category": "Lures", "price": "RM5 ", "image": "assets/pic10.jpg", "description": "Berat 9-10 gram | Panjang tak termasuk ekor 4cm | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 11, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic11.jpg", "description": "xxxx"},
+  {"id": 11, "name": "Micro Jig 7 Gram", "category": "Lures", "price": "RM4 ", "image": "assets/pic11.jpg", "description": "Berat 7 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 12, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic12.jpg", "description": "xxxx"},
+  {"id": 12, "name": "Gewang Casting Ultralight 3 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic12.jpg", "description": "Berat 3 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 13, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic13.jpg", "description": "xxxx"},
+  {"id": 13, "name": "Jerkbait 5gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic13.jpg", "description": "Berat 5 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 14, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic14.jpg", "description": "xxxx"},
+  {"id": 14, "name": "Trolling Pikes Fat Crank 11 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic14.jpg", "description": "Berat 11 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 15, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic15.jpg", "description": "xxxx"},
+  {"id": 15, "name": "Gewang Pencil Floating  7 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic15.jpg", "description": "Berat 7 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 16, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic16.jpg", "description": "xxxx"},
-  {"id": 17, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic17.jpg", "description": "xxxx"},
-  {"id": 18, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic18.jpg", "description": "xxxx"},
+  {"id": 16, "name": "Gewang Pencil Popper 10 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic16.jpg", "description": "Berat 10 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
+  {"id": 17, "name": "Gewang Popper Lure 12 Gram", "category": "Lures", "price": "RM4 ", "image": "assets/pic17.jpg", "description": "Berat 12 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
+  {"id": 18, "name": "Popper Lure Topwater  9 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic18.jpg", "description": "Berat 9gram gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
   {"id": 19, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic19.jpg", "description": "xxxx"},
   {"id": 20, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic20.jpg", "description": "xxxx"},
   {"id": 21, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic21.jpg", "description": "xxxx"},
