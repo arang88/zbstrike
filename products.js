@@ -36,11 +36,14 @@ window.PRODUCTS = [
   
   {"id": 17, "name": "Gewang Popper Lure 12 Gram", "category": "Lures", "price": "RM4 ", "image": "assets/pic17.jpg", "description": "Berat 12 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 18, "name": "Popper Lure Topwater  9 Gram", "category": "Lures", "price": "RM3 ", "image": "assets/pic18.jpg", "description": "Berat 9gram gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  {"id": 18, "name": "Popper Lure Topwater", "category": "Lures", "price": "RM3 ", "image": "assets/pic18.jpg", "description": "Berat 9 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
   
-  {"id": 19, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic19.jpg", "description": "xxxx"},
-  {"id": 20, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic20.jpg", "description": "xxxx"},
-  {"id": 21, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic21.jpg", "description": "xxxx"},
+  {"id": 19, "name": "Fly Lure Insect Cicada", "category": "Lures", "price": "RM3 ", "image": "assets/pic19.jpg", "description": "Berat 4 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
+  {"id": 20, "name": "Spoon Lure", "category": "Lures", "price": "RM2-3.5 ", "image": "assets/pic20.jpg", "description": "Berat 2-5 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
+  {"id": 21, "name": "Umpan Candat Sotong", "category": "Lures", "price": "RM2.5 ", "image": "assets/pic21.jpg", "description": "Berat 16 gram | 📞 WhatsApp 012‑747 3680. ✨ Harga istimewa untuk pembelian borong.⏳ Stok terhad :4 peluang tidak menunggu lama"},
+  
   {"id": 22, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic22.jpg", "description": "xxxx"},
   {"id": 23, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic23.jpg", "description": "xxxx"},
   {"id": 24, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic24.jpg", "description": "xxxx"},
@@ -51,7 +54,6 @@ window.PRODUCTS = [
   {"id": 29, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic29.jpg", "description": "xxxx"},
   {"id": 30, "name": "xxxx", "category": "xxxx", "price": "RM ", "image": "assets/pic30.jpg", "description": "xxxx"},
 ];
-``
 
 window.FAQS = [
   {"q": "Berapa caj postage?", "a": "RM10 untuk Semenanjung Malaysia dan RM15 untuk Sabah & Sarawak."},
